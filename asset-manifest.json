@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/expense-splitter/static/css/main.46a3fb94.css",
+    "main.js": "/expense-splitter/static/js/main.e5c08143.js",
+    "index.html": "/expense-splitter/index.html",
+    "main.46a3fb94.css.map": "/expense-splitter/static/css/main.46a3fb94.css.map",
+    "main.e5c08143.js.map": "/expense-splitter/static/js/main.e5c08143.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46a3fb94.css",
+    "static/js/main.e5c08143.js"
+  ]
+}
